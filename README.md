@@ -1,1 +1,1 @@
-# arrayLetter_java101Arrays_Patika.dev
+Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
